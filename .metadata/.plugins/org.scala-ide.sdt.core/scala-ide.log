@@ -1,0 +1,35 @@
+2016-11-08 10:42:16,004  WARN [ModalContext] - ScalaProject - Project TwitterSparkStreaming has platform default sourceLevel.
+2016-11-08 10:42:16,005  WARN [ModalContext] - ScalaProject - Project TwitterSparkStreaming runs on platform default installation.
+2016-11-08 10:42:19,211  WARN [Worker-0] - ScalaProject - Project TwitterSparkStreaming has platform default sourceLevel.
+2016-11-08 10:42:19,214  WARN [Worker-0] - ScalaProject - Project TwitterSparkStreaming runs on platform default installation.
+2016-11-08 10:44:00,843  WARN [Worker-8] - ScalaProject - Project TwitterSparkStreaming has platform default sourceLevel.
+2016-11-08 10:44:00,843  WARN [Worker-8] - ScalaProject - Project TwitterSparkStreaming runs on platform default installation.
+2016-11-08 10:45:36,951  WARN [Worker-11] - ScalaProject - Project TwitterSparkStreaming has platform default sourceLevel.
+2016-11-08 10:45:36,952  WARN [Worker-11] - ScalaProject - Project TwitterSparkStreaming runs on platform default installation.
+2016-11-08 10:45:37,341  WARN [Java indexing] - ScalaProject - Project TwitterSparkStreaming has platform default sourceLevel.
+2016-11-08 10:45:37,341  WARN [Java indexing] - ScalaProject - Project TwitterSparkStreaming runs on platform default installation.
+2016-11-08 10:45:44,759 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-11-08 10:45:44,759 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-11-08 10:45:44,760 ERROR [Text Viewer Hover Presenter] - IScalaPresentationCompiler$ - Ignoring InterruptException
+2016-11-08 10:47:35,132  WARN [Worker-11] - ScalaProject - Project TwitterSparkStreaming has platform default sourceLevel.
+2016-11-08 10:47:35,132  WARN [Worker-11] - ScalaProject - Project TwitterSparkStreaming runs on platform default installation.
+2016-11-08 10:47:42,763  WARN [Worker-18] - ScalaProject - Project TwitterSparkStreaming has platform default sourceLevel.
+2016-11-08 10:47:42,763  WARN [Worker-18] - ScalaProject - Project TwitterSparkStreaming runs on platform default installation.
+2016-11-08 10:48:11,836  WARN [Worker-17] - ScalaProject - Project TwitterSparkStreaming has platform default sourceLevel.
+2016-11-08 10:48:11,836  WARN [Worker-17] - ScalaProject - Project TwitterSparkStreaming runs on platform default installation.
+2016-11-08 10:48:11,985  WARN [Worker-11] - ScalaProject - Project TwitterSparkStreaming has platform default sourceLevel.
+2016-11-08 10:48:11,985  WARN [Worker-11] - ScalaProject - Project TwitterSparkStreaming runs on platform default installation.
+2016-11-08 10:48:12,572  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project TwitterSparkStreaming has platform default sourceLevel.
+2016-11-08 10:48:12,573  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project TwitterSparkStreaming runs on platform default installation.
+2016-11-08 10:48:13,136  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-11-08 10:48:13,337  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - CustomSemanticAction - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-11-08 10:49:16,680  WARN [Worker-21] - ScalaProject - Project TwitterSparkStreaming has platform default sourceLevel.
+2016-11-08 10:49:16,680  WARN [Worker-21] - ScalaProject - Project TwitterSparkStreaming runs on platform default installation.
+2016-11-08 10:49:16,851  WARN [Worker-21] - ScalaProject - Project TwitterSparkStreaming has platform default sourceLevel.
+2016-11-08 10:49:16,851  WARN [Worker-21] - ScalaProject - Project TwitterSparkStreaming runs on platform default installation.
+2016-11-08 10:49:17,685  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project TwitterSparkStreaming has platform default sourceLevel.
+2016-11-08 10:49:17,685  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ScalaProject - Project TwitterSparkStreaming runs on platform default installation.
+2016-11-08 10:49:18,242  WARN [org.scalaide.ui.internal.reconciliation.ScalaReconciler] - ImplicitHighlightingPresenter - Timeout while waiting for `askLoadedTyped` during semantic highlighting.
+2016-11-08 10:52:18,142 ERROR [Worker-22] - System.err - SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+2016-11-08 10:52:18,142 ERROR [Worker-22] - System.err - SLF4J: Defaulting to no-operation (NOP) logger implementation
+2016-11-08 10:52:18,142 ERROR [Worker-22] - System.err - SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
