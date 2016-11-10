@@ -1,6 +1,6 @@
 
 
-package com.sundogsoftware.sparkstreaming
+package in.pushkarmishra.sparkstreaming
 
 import org.apache.spark._
 import org.apache.spark.SparkContext._
